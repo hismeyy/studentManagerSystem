@@ -1,0 +1,2 @@
+# studentManagerSystem
+纯C语言制作的基于控制台的win学生管理系统
